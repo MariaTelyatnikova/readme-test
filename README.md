@@ -18,11 +18,11 @@
 
 Dillinger uses a number of open source projects to work properly:
 
-* [JvmClient](JvmClient) 
-* [JvmManager](JvmManager)
-* [protos](protos)
-* [FopService](FopService)
-* [FopActivator](FopActivator) 
+* [JvmClient](JvmClient.md) 
+* [JvmManager](JvmManager.md)
+* [protos](protos.md)
+* [FopService](FopService.md)
+* [FopActivator](FopActivator.md) 
 
 ### Настройка машины
 
